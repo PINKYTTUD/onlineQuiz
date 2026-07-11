@@ -157,7 +157,7 @@ Update your database connection class with your MySQL credentials.
 Example:
 
 ```java
-String url = "jdbc:mysql://localhost:3306/onlinequiz";
+String url = "jdbc:mysql://localhost:3306/exams";
 String username = "root";
 String password = "";
 ```
@@ -191,7 +191,7 @@ git clone https://github.com/PINKYTTUD/onlineQuiz.git
 4. Create the database:
 
 ```sql
-CREATE DATABASE onlinequiz;
+CREATE DATABASE exams;
 ```
 
 5. Run all table creation scripts.
