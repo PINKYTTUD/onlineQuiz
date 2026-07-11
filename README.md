@@ -24,13 +24,13 @@ Before running the application, install the following:
 Open MySQL Command Line, MySQL Workbench, or phpMyAdmin and run:
 
 ```sql
-CREATE DATABASE onlinequiz;
+CREATE DATABASE exams;
 ```
 
 Select the database:
 
 ```sql
-USE onlinequiz;
+USE exams;
 ```
 
 ---
@@ -236,4 +236,4 @@ Questions
 
 # Author
 
-Online Quiz Application
+Yaw Amponsah Kankam
